@@ -32,6 +32,4 @@ After completing this lecture, you will be able to:
 
 If you got stuck you can find solutions [here](solutions/python_lecture_ai_in_finance_solutions.ipynb)
 
-## Credits
 
-This lecture was set up by @EzheZhezhe and @pyladiesams
